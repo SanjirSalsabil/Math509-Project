@@ -5,3 +5,5 @@ This will be accomplished by examining 993 readings of different bacteriaparticl
 
 These readings are from twenty seven different videos where the movement of individual Salmonella bacterium were tracked, with their x and y coordinates measured in pixel coordinates of dx= 0.156 μm 
 and the time measured in frames of dt= 0.0667seconds.
+
+![image](https://user-images.githubusercontent.com/33179763/145376852-3feeadae-a8ab-4742-973a-a0f953bb31d4.png)
